@@ -20,13 +20,9 @@ I have utilized <b>Microsoft Excel</b> and <b>Tableau</b> in the data manipulati
 Data Cleaning | Data Analytics | Exploratory Data Analysis | Data Visualization
 
 ## Dataset 
-Data Source is available [HERE](https://www.kaggle.com/code/tirendazacademy/google-play-store-eda-data-visualization#Data-Visualization).</br>
-Below is the snapshot on the column description:<br>
-<img src="https://i.imgur.com/95s6asw.png"/> <br></br>
-
-Here is a detailed elaboration on the dataset columns description:
-
-This file contains all the details of the apps on Google Play. <br>
+Data Source is available [HERE](https://www.kaggle.com/code/tirendazacademy/google-play-store-eda-data-visualization#Data-Visualization).<br></br>
+Below is the snapshot on the columns description:<br>
+<img src="https://i.imgur.com/95s6asw.png"/> <br>
 
 There are 9 features that describe any given app:<br>
 - App: Name of the app<br>

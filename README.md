@@ -31,7 +31,7 @@ Before loading the data straight into the Tableau Software, it has been screeene
   
 ## Dashboard Report 
 Have a look at the complete [TABLEAU](https://public.tableau.com/app/profile/anurag8230/viz/GooglePlayStoreAnalyticsProject/Dashboard) report to observe the insights and trends derived from the analysis.
-<br></br>![Dashboard](https://github.com/KAnurag27/COVID-PortfolioProject/blob/main/Tableau%20Dashboard%20-%20COVID%20Project.png)
+<br></br>![Dashboard](https://github.com/KAnurag27/PlayStoreData/blob/main/gpsd.png)
 
 
 

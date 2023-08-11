@@ -30,7 +30,7 @@ Before loading the data straight into the Tableau Software, it has been screeene
 - Formatting Pricing & Reviews column to maintain uniformity
   
 ## Dashboard Report 
-Have a look at the complete [TABLEAU](https://public.tableau.com/views/CovidDashboard_16905681686080/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) report to observe the insights and trends derived from the analysis.
+Have a look at the complete [TABLEAU](https://public.tableau.com/app/profile/anurag8230/viz/GooglePlayStoreAnalyticsProject/Dashboard) report to observe the insights and trends derived from the analysis.
 <br></br>![Dashboard](https://github.com/KAnurag27/COVID-PortfolioProject/blob/main/Tableau%20Dashboard%20-%20COVID%20Project.png)
 
 
